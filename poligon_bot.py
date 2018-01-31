@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 import telebot
 import logging
 
-TOKEN = '504713240:AAH881_7VXN0fhNTDsfGL_bvJ-R0FcZ3C8I'
+TOKEN = ''
 CHANEL_NAME = '@oldHW'
 
 NO_NEW_THEMES_MAX_COUNT = 10
