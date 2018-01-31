@@ -13,7 +13,7 @@ REQUESTS_TIMEOUT = 2
 NO_NEW_THEMES_TIMEOUT = 60
 REQUEST_ERROR_TIMEOUT = 60
 
-TOKEN = '504713240:AAH881_7VXN0fhNTDsfGL_bvJ-R0FcZ3C8I'
+TOKEN = ''
 CHANEL_NAME = '@oldHW'
 
 url_template = 'http://radiokot.ru/forum/viewtopic.php?t='
